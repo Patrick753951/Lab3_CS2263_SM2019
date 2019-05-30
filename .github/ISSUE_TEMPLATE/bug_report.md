@@ -7,5 +7,5 @@ assignees: ''
 
 ---
 
-LinkedList implementation is incomplete >
-Missing the code for the functions pop, push, newNode and deleteNode.
+Makefile implementation is incomplete >
+There is nothing in the Makefile!
