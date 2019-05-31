@@ -1,0 +1,75 @@
+commit 5cc8a560615dfb58d460254d651396e47f806039
+Author: Qianchao Wang <qwang6@gc127m10.cs.unb.ca>
+Date:   Fri May 31 12:43:15 2019 -0300
+
+    final
+
+commit ceb65051b468065b49c04393c4e626fb71b7708c
+Merge: 3f2481f bed2762
+Author: Patrick753951 <44386571+Patrick753951@users.noreply.github.com>
+Date:   Fri May 31 12:05:34 2019 -0300
+
+    Merge pull request #5 from Patrick753951/LinkedList_implementation
+    
+    linkedlist fixed
+
+commit 3f2481f3a8dc81b0a08f1d5bf27a66ae48e6530f
+Author: 526978246 <48800533+526978246@users.noreply.github.com>
+Date:   Fri May 31 12:01:12 2019 -0300
+
+    Add files via upload
+
+commit bed27625b2abf9ec14f1dc4cfe49800f256c7121
+Merge: e0ec50c aa6c7b1
+Author: Patrick753951 <44386571+Patrick753951@users.noreply.github.com>
+Date:   Fri May 31 00:30:39 2019 -0300
+
+    Merge pull request #1 from Patrick753951/master
+    
+    fix the bugs in LinkedList
+
+commit aa6c7b17d9545220f24f1dab74a1e67383a89c1b
+Author: Patrick753951 <44386571+Patrick753951@users.noreply.github.com>
+Date:   Fri May 31 00:23:51 2019 -0300
+
+    Delete 麦宝宝1.jpg
+
+commit 7e65459316bb50123e388eaef53e4c5202d7603e
+Author: Patrick753951 <44386571+Patrick753951@users.noreply.github.com>
+Date:   Fri May 31 00:23:34 2019 -0300
+
+    Add files via upload
+
+commit 15adc604d2427aebfb19d5716f32b6062c4d97b5
+Author: Patrick753951 <44386571+Patrick753951@users.noreply.github.com>
+Date:   Thu May 30 23:07:06 2019 -0300
+
+    Add files via upload
+
+commit 8e59e81970d7e5f2d39c13b84836c1731114453e
+Author: Patrick753951 <44386571+Patrick753951@users.noreply.github.com>
+Date:   Thu May 30 14:19:41 2019 -0300
+
+    Update issue templates
+    
+    Creat the issue forom partner B about the Makefile implementation is incomplete
+
+commit fa9f9deb74f6faab4fea3f12411407b3addb44e2
+Author: Patrick753951 <44386571+Patrick753951@users.noreply.github.com>
+Date:   Thu May 30 14:14:52 2019 -0300
+
+    Update issue templates
+    
+    Creat the issue 1 from partner B about LinkedList mplementation is incomplete
+
+commit e0ec50ccd60593b6c02436b527deb34d71d09ae4
+Author: Qianchao Wang <qwang6@id414m47.cs.unb.ca>
+Date:   Thu May 30 13:54:00 2019 -0300
+
+    add file
+
+commit 45835389ae5efaca0260dfe94db75073afb9c901
+Author: Patrick753951 <44386571+Patrick753951@users.noreply.github.com>
+Date:   Thu May 30 13:43:07 2019 -0300
+
+    Initial commit
