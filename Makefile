@@ -12,9 +12,9 @@ COMPILER = gcc
 # The C flags to pass to gcc
 C_FLAGS = -Wall -Wextra -std=c99
 
-
+# link our .o files to make an executable
 Stack: Stack.o
-	$(COMPILER) $(C_FLAGS) -o Stack Stack.o
+	$(COMPILER) $(C_FLAGS) -o Stack Stack.o 
 
 # compile the `Stack.o` file
 Stack.o: Stack.c
