@@ -51,7 +51,7 @@ int main(void)
         
         if( popped && NULL != str )
         {
-            printf("%s \n", str);
+            printf("%s ", str);
             free(str);
         }
     }
@@ -76,9 +76,9 @@ Node_t *newNode(const char *value, Node_t *next)
 	
 	if(ptr != NULL)
 	{
-			ptr -> value = strdup(value);
-			ptr -> next = next;
-			return ptr;
+		ptr -> value = strdup(value);
+		ptr -> next = next;
+		return ptr;
 	}
 	
     return NULL;
